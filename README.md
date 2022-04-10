@@ -74,7 +74,7 @@ N/A
 [Add table of models]
 ### Networking
 - Home App List (Permissions necessary, unknown)
- - Communicating with the phone internally to show the apps that are on the device itself
+ -  Communicating with the phone internally to show the apps that are on the device itself
  - Then whatever app was chosen from the list beforehand, it will go to that app 'on unlock'.
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
