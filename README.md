@@ -73,8 +73,9 @@ Opens apps on unlock or instantly, if being used, at the time it was set to open
 N/A
 [Add table of models]
 ### Networking
--Home App List
-- foreground communicating wiht the phone internally to show the apps that are on the device itself, then whatever is chose from the list, it will go to that app (Networking)
+- Home App List (Permissions necessary, unknown)
+ - Communicating with the phone internally to show the apps that are on the device itself
+ - Then whatever app was chosen from the list beforehand, it will go to that app 'on unlock'.
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
